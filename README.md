@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @gusfim
 - 👀 I'm interested in a job opportunity.
-- 🌱 I'm currently learning JAVA and C#, complete Object Oriented and Programming Logic.
+- 🌱 I'm currently learning HTML5, CSS, JavaScript, JAVA and C#, complete Object Oriented and Programming Logic.
 
 - 📫 How to reach me,
 +353(083) 206-0296.
